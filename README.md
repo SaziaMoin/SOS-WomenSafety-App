@@ -11,7 +11,7 @@ The Women Safety Application is designed to enhance security for women by detect
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SOS-WomenSafety-App.git
+   git clone https://github.com/SaziaMoin/SOS-WomenSafety-App.git
    ```
 2. Open the project in Android Studio.
 3. Sync the Gradle files and install necessary dependencies.
